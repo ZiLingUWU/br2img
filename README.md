@@ -2,7 +2,7 @@
 
 # br2img
 
-一个 Windows 批处理工具，用于将 Android ROM 中的 `system.new.dat.br` 和 `vendor.new.dat.br` 文件转换为 `system.img` 和 `vendor.img` 镜像文件。
+一个 Windows 批处理工具，用于将 Android ROM 中的 `system.new.dat.br` 和 `vendor.new.dat.br` 文件转换为 `system.img` 和 `vendor.img` 镜像文件。注意：需要Python 3环境
 
 ---
 
