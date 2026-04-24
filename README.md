@@ -1,4 +1,4 @@
-# br2img A Android ROM .br to .img
+# br2img Android ROM .br to .img
 
 # br2img
 
